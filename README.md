@@ -17,6 +17,6 @@
 
 # My skills:
 <p align="left">
-    <a target="_blank" href="https://commonmark.org/help/tutorial/08-images.html"><img src="./SVG/skilss.svg"></a>
+    <a target="_blank" href="https://commonmark.org/help/tutorial/08-images.html"><img src="./SVG/skilss.svg"/></a>
 </p>
 
