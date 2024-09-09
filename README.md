@@ -17,6 +17,7 @@
 
 # My skills:
 <p align="left">
-    <img src="./SVG/skilss.svg">
+    <a href=""><img src="./SVG/skilss.svg"></a>
 </p>
+[![My skills](./SVG/reactjs-svgrepo-com.svg)](https://commonmark.org/help/tutorial/02-emphasis.html)
 
