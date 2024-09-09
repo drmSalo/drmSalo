@@ -8,6 +8,12 @@
 - I'm good at creating anything you want to see in your website or your mobile app.
 - Logic of your website is my responsibility.
 - Optimizing websites for all devices.
+  
+# I speak:
+- German
+- English
+- Russian
+- Arabic
 
 # My skills:
 <p align="left">
