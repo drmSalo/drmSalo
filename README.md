@@ -17,7 +17,7 @@
 
 # My skills:
 <p align="left">
-    <img src="./SVG/skilss.svg"/> 
-    <img src="./SVG/django-icon-svgrepo-com.svg"/>
+    <img width="48" height="48" src="./SVG/html5-01-svgrepo-com.svg"/> 
+    <img width="48" height="48" src="./SVG/django-icon-svgrepo-com.svg"/>
 </p>
 
