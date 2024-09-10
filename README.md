@@ -24,7 +24,7 @@
     <img width="48" height="48" src="./SVG/typescript-svgrepo-com.svg"/>
     <img width="48" height="48" src="./SVG/scss2-svgrepo-com.svg"/>
     <img width="48" height="48" src="./SVG/reactjs-svgrepo-com.svg"/>
-    <img width="55" height="55" src="./SVG/python-svgrepo-com.svg"/>
+    <img width="48" height="48" src="./SVG/python-svgrepo-com.svg"/>
     <img width="48" height="48" src="./SVG/django-icon-svgrepo-com.svg"/>
     <img width="48" height="48" src="./SVG/java-svgrepo-com.svg"/>
     <img width="48" height="48" src="./SVG/linux-svgrepo-com.svg"/>
