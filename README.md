@@ -13,7 +13,6 @@
 - *German*
 - *English*
 - *Russian*
-- *Arabic*
 
 # My skills:
 <p align="left">
